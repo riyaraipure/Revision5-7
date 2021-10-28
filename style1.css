@@ -1,0 +1,16 @@
+body{
+    background: url('https://media-exp1.licdn.com/dms/image/C561BAQFc8gi4cmf9Eg/company-background_10000/0/1597491861593?e=2159024400&v=beta&t=Fm9fXUfVUVRHxbKeru3M32hPqwbU023b1zh-46Oro3g');
+    background-size: cover;
+    text-align: center;
+}
+
+table{
+    margin-left: 550px;
+    border-collapse: collapse;
+	border: 2px solid rgb(33, 59, 42);
+}
+
+td{
+    border: 2px solid rgb(33, 59, 42);
+}
+
